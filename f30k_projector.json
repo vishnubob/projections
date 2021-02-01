@@ -1,0 +1,14 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "f30k",
+      "tensorShape": [10200, 512],
+      "tensorPath": "https://raw.githubusercontent.com/vishnubob/projections/main/data/weights.bytes",
+      "metadataPath": "https://raw.githubusercontent.com/vishnubob/projections/main/data/metadata.tsv",
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/vishnubob/projections/main/data/sprites.png",
+        "singleImageDim": [16, 16]
+      }
+    }
+  ]
+}
